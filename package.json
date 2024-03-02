@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@unocss/preset-rem-to-px": "^0.58.4",
+    "axios": "^1.6.6",
+    "laravel-vite-plugin": "^0.7.5",
+    "naive-ui": "^2.37.3",
+    "prettier": "^2.8.8",
+    "unocss": "^0.58.3",
+    "unplugin-auto-import": "^0.17.4",
+    "unplugin-vue-components": "^0.26.0",
+    "vfonts": "^0.0.3",
+    "vite": "^4.0.0",
+    "vite-plugin-pages": "^0.32.0",
+    "vite-plugin-vue-layouts": "^0.11.0"
+  },
+  "dependencies": {
+    "@vicons/carbon": "^0.12.0",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vueuse/core": "^10.7.2",
+    "echarts": "^5.4.3",
+    "less": "^4.1.3",
+    "pinia": "^2.1.7",
+    "vue": "^3.2.36",
+    "vue-router": "^4.2.2",
+    "vuex": "^4.0.2"
+  }
+}
