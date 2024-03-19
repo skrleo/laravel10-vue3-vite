@@ -1,7 +1,7 @@
 import { createApp } from 'vue';
 import App from '@/App.vue';
-import Router from '@/router/router.js';
-import Store from '@/store/store.js';
+import Router from '@/router/index';
+import Store from '@/store/index';
 
 import 'uno.css'
 import 'virtual:uno.css'
